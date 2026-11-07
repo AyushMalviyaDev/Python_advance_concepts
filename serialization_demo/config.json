@@ -1,0 +1,9 @@
+{
+    "theme": "dark",
+    "notifications": true,
+    "max_connections": 100,
+    "allowed_roles": [
+        "admin",
+        "editor"
+    ]
+}
