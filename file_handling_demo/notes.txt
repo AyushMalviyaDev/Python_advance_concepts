@@ -1,0 +1,5 @@
+Line 2: The 'w' mode overwrites previous content.
+Line 3: Appended this new line safely.
+Line 4: First list item
+Line 5: Second list item
+Line 6: Added via r+ mode pointer at the end.
